@@ -157,10 +157,10 @@ export function AppShell({ children }: AppShellProps) {
 
                 <div className="leading-none">
                   <p className="text-sm font-black text-[var(--app-text)]">
-                    مارينا
+                    مدرسة pro
                   </p>
                   <p className="mt-1 text-xs font-semibold text-[var(--app-text-muted)]">
-                    ثانوية مارينا الأهلية
+                    مدرسة pro
                   </p>
                 </div>
               </div>
@@ -196,10 +196,10 @@ function SidebarContent({ pathname, onNavigate }: SidebarContentProps) {
 
           <div className="min-w-0">
             <p className="truncate text-xl font-black tracking-tight text-[var(--color-sidebar-text)]">
-              مارينا
+              مدرسة pro
             </p>
             <p className="mt-1 truncate text-xs font-bold text-[var(--color-sidebar-muted)]">
-              ثانوية مارينا الأهلية
+              مدرسة pro
             </p>
           </div>
         </Link>

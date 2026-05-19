@@ -39,7 +39,7 @@ export async function GET(_request: Request, context: RouteContext) {
       sectionName: payment.sectionName,
       className: payment.className,
     },
-    { name: "مدرستي برو" },
+    { name: "مدرسة pro" },
   );
 
   return new Response(html, {

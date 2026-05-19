@@ -84,7 +84,7 @@ export function generatePaymentReceiptHtml(
     <div class="row"><span class="label">تاريخ الدفع</span><span class="value">${payment.paidAt ? formatDate(payment.paidAt) : formatDate(payment.createdAt)}</span></div>
     ${payment.notes ? `<div class="row"><span class="label">ملاحظات</span><span class="value">${payment.notes}</span></div>` : ""}
   </div>
-  <div class="footer">ثانوية مارينا — تم إنشاء هذه الفاتورة إلكترونيًا</div>
+  <div class="footer">مدرسة pro — تم إنشاء هذه الفاتورة إلكترونيًا</div>
 </div>
 <button class="print-btn" onclick="window.print()">طباعة الفاتورة</button>
 </body>

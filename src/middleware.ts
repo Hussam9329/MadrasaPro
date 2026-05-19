@@ -1,7 +1,7 @@
 import { NextResponse } from "next/server";
 import type { NextRequest } from "next/server";
 
-const JWT_SECRET_TEXT = process.env.JWT_SECRET || "madrasati-secret-key-2024-marina-school";
+const JWT_SECRET_TEXT = process.env.JWT_SECRET || "madrasati-secret-key-2024-madrasah-pro";
 const SESSION_COOKIE_NAME = "madrasati_session";
 const publicRoutes = ["/login"];
 

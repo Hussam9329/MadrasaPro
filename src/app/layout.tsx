@@ -4,16 +4,16 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: {
-    default: "MadrasaPro",
-    template: "%s | MadrasaPro",
+    default: "مدرسة pro",
+    template: "%s | مدرسة pro",
   },
   description:
-    "نظام مدرسي ذكي ومتكامل لإدارة ثانوية مارينا، الطلاب، المدرسين، الصفوف، الدرجات، الأقساط، والمدفوعات.",
-  applicationName: "MadrasaPro",
-  authors: [{ name: "MadrasaPro" }],
+    "نظام مدرسي ذكي ومتكامل لإدارة مدرسة pro، الطلاب، المدرسين، الصفوف، الدرجات، الأقساط، والمدفوعات.",
+  applicationName: "مدرسة pro",
+  authors: [{ name: "مدرسة pro" }],
   generator: "Next.js",
   keywords: [
-    "مارينا",
+    "مدرسة pro",
     "نظام مدرسة",
     "إدارة الطلاب",
     "الحضور",

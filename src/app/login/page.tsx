@@ -35,10 +35,10 @@ export default function LoginPage() {
             </svg>
           </div>
           <h1 className="text-3xl font-black tracking-tight text-[var(--app-text)]">
-            مارينا
+            مدرسة pro
           </h1>
           <p className="mt-2 text-sm font-bold text-[var(--app-text-muted)]">
-            ثانوية مارينا الأهلية
+            مدرسة pro
           </p>
         </div>
 
@@ -49,7 +49,7 @@ export default function LoginPage() {
 
           <div className="mt-6 border-t border-[var(--app-border)] pt-5 text-center">
             <p className="text-xs font-medium text-[var(--app-text-soft)]">
-              نظام إدارة ثانوية مارينا الأهلية © {new Date().getFullYear()}
+              نظام إدارة مدرسة pro © {new Date().getFullYear()}
             </p>
           </div>
         </div>

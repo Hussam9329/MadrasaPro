@@ -4,7 +4,7 @@ import { cookies } from "next/headers";
 import { db, ensureDatabase } from "@/lib/db";
 
 const JWT_SECRET = new TextEncoder().encode(
-  process.env.JWT_SECRET || "madrasati-secret-key-2024-marina-school"
+  process.env.JWT_SECRET || "madrasati-secret-key-2024-madrasah-pro"
 );
 
 const SESSION_COOKIE_NAME = "madrasati_session";

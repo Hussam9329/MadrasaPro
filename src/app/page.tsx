@@ -129,11 +129,11 @@ export default async function DashboardPage() {
                 <div>
                   <div className="mb-4 inline-flex items-center gap-2 rounded-full border border-indigo-100 bg-gradient-to-l from-white via-blue-50 to-amber-50 px-3 py-2 text-xs font-extrabold text-indigo-700">
                     <span className="h-2 w-2 rounded-full bg-gradient-to-r from-blue-500 to-amber-400" />
-                    نظام إدارة مدرسة MadrasaPro
+                    نظام إدارة مدرسة pro
                   </div>
 
                   <h2 className="app-title">
-                    أهلًا بك في لوحة تحكم MadrasaPro
+                    أهلًا بك في لوحة تحكم مدرسة pro
                   </h2>
 
                   <p className="app-subtitle mt-3 max-w-3xl">

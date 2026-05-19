@@ -8,4 +8,3 @@ prisma/*.db-journal
 .env.production.local
 .vercel
 .env*.local
-tsconfig.tsbuildinfo

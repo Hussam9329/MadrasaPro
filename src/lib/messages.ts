@@ -10,7 +10,7 @@ export type SmartMessage = {
 
 export const appMessages = {
   welcome: {
-    title: "أهلًا بك في مدرستي",
+    title: "أهلًا بك في مدرسة pro",
     description:
       "ابدأ بتجهيز النظام خطوة خطوة. أضف المواد الدراسية، ثم الصفوف، ثم المدرسين والطلاب.",
     tone: "info",
@@ -19,7 +19,7 @@ export const appMessages = {
   noLoginMode: {
     title: "تم تسجيل الدخول بنجاح",
     description:
-      "أنت الآن في لوحة تحكم ثانوية مارينا.",
+      "أنت الآن في لوحة تحكم مدرسة pro.",
     tone: "success",
   } satisfies SmartMessage,
 
